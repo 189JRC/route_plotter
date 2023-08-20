@@ -4,9 +4,9 @@ This is a route plotter script written for the JHUB coding scheme module 3 writt
 ## What Does it Do?
 Reads text files, prints a grid with a route along with coordinates.
 
-![Local Image](images/my_image.jpg)
-![Local Image](images/my_image.jpg)
-![Local Image](images/my_image.jpg)
+![Local Image](images/route1.png)
+![Local Image](images/route2.png)
+![Local Image](images/route3.png)
 
 ## Use
 - Download zip folder
